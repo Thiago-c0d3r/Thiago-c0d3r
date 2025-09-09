@@ -16,7 +16,7 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudando Engenharia de Software @ UniCEPLAC  
-- 👨🏻‍💻 Focado no ecossistema Node.js: Express, Mongo, TypeScript e boas práticas  
+- 👨🏻‍💻 Focado no ecossistema Node.js: Express,TypeScript e boas práticas  
 - 🔁 Refatorando até funcionar 
 - ☕ Sobrevivente de madrugadas com debug e café
 - 📦 Amo criar APIs organizadas e modulares 
