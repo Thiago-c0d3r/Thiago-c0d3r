@@ -6,9 +6,7 @@
   📍 Brasília - DF
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer+in+progress;Arquitetura+%3E+Sintaxe;Código+limpo+é+regra;Resolver+problemas+é+o+foco;Consistência+cria+nível" />
-</p>
+
 
 ---
 
