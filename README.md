@@ -27,16 +27,6 @@
 
   > Código bom não é o que funciona, é o que continua funcionando quando cresce.
 
----
-
-## 🚀 Jornada atual
-
-📅 **Bootcamp intensivo — 100 dias de Java Backend**
-
-* 📦 Construção diária de projetos
-* 🧠 Foco em pensamento de engenharia
-* ⚙️ Aplicação de boas práticas (SRP, organização, modularidade)
-* 📈 Evolução contínua documentada no GitHub
 
 ---
 
