@@ -1,4 +1,4 @@
-<h1 align="center">Fala dev! Eu sou o Thiago 👨🏻‍💻</h1>
+<h1 align="center">Eu sou o Thiago 👨🏻‍💻</h1>
 
 <p align="center">
   ☕ Back-End focado em Java <br/>
